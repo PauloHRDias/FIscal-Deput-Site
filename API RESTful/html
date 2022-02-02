@@ -14,7 +14,7 @@
         <div id="header">
             <h1>Todos os dados de API utilizados neste projeto são de autoria da câmara de deputados</h1>
             <p>Sendo estas retiradas pelo site criador e compilador das <a href= "https://dadosabertos.camara.leg.br/swagger/api.html?ref=devresourc.es#api/html" taget="_blank"> APIs RESTful </a> utilizadas neste projeto </p>  
-                <!-- arrumar a html de acordo com as APIrest utilizadas após utilização de CSS.-->
+                <!-- arrumar a html de acordo com as APIrest utilizadas após utilização de CSS sergio.-->
         </div>
             <a href="../index.html">Página inicial</a>
     </body>
