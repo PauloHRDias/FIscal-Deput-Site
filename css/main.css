@@ -1,0 +1,26 @@
+html {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background: linear-gradient(cyan, lightblue);
+  min-height: 100vh;
+}
+body {
+}
+p {
+  font-size: 18 px;
+  color: green;
+}
+
+ol {
+  font-size: 20px;
+  color: #073802;
+}
+
+#header {
+  font-size: 20px;
+  color: green;
+}
+
+#navigation {
+  font-size: 20px;
+}
