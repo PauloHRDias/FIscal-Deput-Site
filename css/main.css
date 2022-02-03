@@ -1,26 +1,21 @@
 html {
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background: linear-gradient(cyan, lightblue);
+  background: linear-gradient(#13635a, #71e8da);
   min-height: 100vh;
 }
-body {
-}
-p {
-  font-size: 18 px;
-  color: green;
-}
 
+#navigation,
+p,
 ol {
-  font-size: 20px;
-  color: #073802;
+  font-size: 20 px;
+  color: #31635e;
+  font-family: OCR A Std, monospace;
 }
 
-#header {
-  font-size: 20px;
-  color: green;
-}
-
-#navigation {
-  font-size: 20px;
+#header,
+#header p {
+  font-size: 20 px;
+  color: #71e8da;
+  font-family: OCR A Std, monospace;
 }
